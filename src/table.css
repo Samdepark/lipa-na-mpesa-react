@@ -1,0 +1,25 @@
+.trans{
+text-align: center;
+text-decoration: underline;
+font-weight: bolder;
+}
+.table{
+    background-color: rgba(121, 128, 128, 0.438);
+    border-style: groove;
+    margin: auto;
+    border-radius: 5px;
+
+}
+thead{
+    align-content: space-evenly;
+    padding: 20px;
+    background-color: rgb(142, 236, 243);
+    font-size: 30px;
+    font-weight: bolder
+}
+td{
+    background-color: rgb(252, 249, 247);
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}

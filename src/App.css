@@ -1,0 +1,50 @@
+.pay{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 1px 3px 5px #25242483;
+  align-content: center;
+  width: 50%;
+  margin: auto;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 15px;
+}
+.logo{
+  height: auto;
+  border-radius: 5px;
+  width: 70%;
+}
+.phone{
+  margin: 5px;
+  border: none;
+  padding: 5px;
+  border-style: outset;
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
+}
+.amount{
+  margin: 5px;
+  border:none;
+  padding: 5px;
+  font-weight: bold;
+  border-style: outset;
+
+  text-align: center;
+  justify-content: center;
+}
+.btn{
+  margin: 5px;
+  padding: 5px;
+  font-weight: bold;
+  background-color: rgb(0, 0, 0);
+  color: aliceblue;
+  border-radius: 5px;
+}
+.btn:hover{
+  color: blue;
+  font-weight: bolder;
+  background-color: rgba(128, 128, 128, 0.863);
+  font-size: 15px;
+}
